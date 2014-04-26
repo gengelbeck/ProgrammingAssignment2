@@ -25,9 +25,7 @@ makeCacheMatrix <- function(x = matrix()) {
   #
   # Args:
   #   x: a matrix whose inverse is to be calculated.
-  #
-  # Returns:
-  #   The inverse of the matrix x.
+
   
   #  Private variable
   p_inv <- NULL
